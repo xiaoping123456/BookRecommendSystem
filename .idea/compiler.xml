@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataLoader" />
+        <module name="book-recommend04-test" />
+        <module name="OnelineRecommender" />
+        <module name="OfflineRecommender" />
+        <module name="KafkaStream" />
+        <module name="ContentRecommender" />
+        <module name="StatisticsRecommender" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-recommend03-test" target="1.8" />
+      <module name="book-recommend03-test (1)" target="1.8" />
+      <module name="book-recommend03-test (2)" target="1.8" />
+      <module name="book-recommend04-test (1)" target="1.8" />
+      <module name="book-recommend04-test (2)" target="1.8" />
+      <module name="businessServer" target="1.5" />
+      <module name="OnlineRecommender" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="book-recommend03-test" options="-parameters" />
+      <module name="book-recommend03-test (1)" options="-parameters" />
+      <module name="book-recommend03-test (2)" options="-parameters" />
+      <module name="book-recommend04-test" options="-parameters" />
+      <module name="book-recommend04-test (1)" options="-parameters" />
+      <module name="book-recommend04-test (2)" options="-parameters" />
+    </option>
+  </component>
+</project>

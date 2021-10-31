@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContentRecommender/ContentRecommender.iml" filepath="$PROJECT_DIR$/ContentRecommender/ContentRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataLoader/DataLoader.iml" filepath="$PROJECT_DIR$/DataLoader/DataLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaStream/KafkaStream.iml" filepath="$PROJECT_DIR$/KafkaStream/KafkaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfflineRecommender/OfflineRecommender.iml" filepath="$PROJECT_DIR$/OfflineRecommender/OfflineRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnelineRecommender/OnelineRecommender.iml" filepath="$PROJECT_DIR$/OnelineRecommender/OnelineRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatisticsRecommender/StatisticsRecommender.iml" filepath="$PROJECT_DIR$/StatisticsRecommender/StatisticsRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommender.iml" filepath="$PROJECT_DIR$/recommender.iml" />
+    </modules>
+  </component>
+</project>
